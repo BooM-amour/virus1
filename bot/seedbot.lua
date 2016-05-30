@@ -232,32 +232,18 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {223216007,195092846,197026278,210740469,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
-An advanced administration bot based on TG-CLI written in Lua
-
-https://github.com/SEEDTEAM/TeleSeed
-
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
-@iranseed [persian]
-
-Our website 
-http://teleseed.seedteam.org/
+    about_text =  [[ViRuS_TM v2 
+AmouR (@MR_vViruSs)
+RohaM (@MR_vViruSs1)
+HameD (@MR_vViruSs2)
+RamiN (@MR_vViruSs3)
+Special thanks to:
+👾Ｖｉｒｕｓ👾™
+INFERNALL
+ChanneL
+https://telegram.me/ViRuS_TM
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -345,10 +331,10 @@ This command will send text to [group_id]
     help_text = [[
 Commands list :
 
-!kick [username|id]
+☠kick [username|id]
 You can also do it by reply
 
-!ban [ username|id]
+☠ban [ username|id]
 You can also do it by reply
 
 !unban [id]
