@@ -230,7 +230,7 @@ function create_config( )
     "leave_ban",
 	"supergroup",
 	"whitelist",
-	"msg_checks"
+	"msg_checks",
 	"plugins"
     },
     sudo_users = {223216007,195092846,197026278,210740469,0,tonumber(our_id)},--Sudo users
