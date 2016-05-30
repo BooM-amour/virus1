@@ -226,30 +226,18 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
-    disabled_channels = {},
+    sudo_users = {223216007,195092846,197026278,210740469,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
-
-Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
-
+    about_text =  [[ViRuS_TM v2 
+AmouR (@MR_vViruSs)
+RohaM (@MR_vViruSs1)
+HameD (@MR_vViruSs2)
+RamiN (@MR_vViruSs3)
 Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
-
-Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+👾Ｖｉｒｕｓ👾™
+INFERNALL
+ChanneL
+https://telegram.me/ViRuS_TM
 ]],
     help_text_realm = [[
 Realm Commands:
